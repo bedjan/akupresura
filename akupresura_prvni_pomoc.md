@@ -14,65 +14,35 @@ praktikujeme několikrát za den.
 
 #### Přehled:
 
-[1. Když nás ovládne 
+[1. Když nás ovládne zlost](#1-kdy%C5%BE-n%C3%A1s-ovl%C3%A1dne-zlost)
 
-zlost](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#1-kdy%C5%BE-n%C3%A1s-ovl%C3%A1dne-zlost)
+[2. Nespavost a strach](#2-nespavost-a-strach)
 
-[2. Nespavost a strach](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#2-nespavost-a-strach)
+[3. Konec otálení](#3-konec-ot%C3%A1len%C3%AD)
 
-[3. Konec otálení](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#3-konec-ot%C3%A1len%C3%AD)
+[4. Pro snížení horečky](#4-pro-sn%C3%AD%C5%BEen%C3%AD-hore%C4%8Dky)
 
-[4. Pro snížení 
+[5. Kdyby se rande nepovedlo](#5-kdyby-se-rande-nepovedlo)
 
-horečky](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#4-pro-sn%C3%AD%C5%BEen%C3%AD-hore%C4%8Dky
+[6. Když přijdou těžší chvíle](h#6-kdy%C5%BE-p%C5%99ijdou-t%C4%9B%C5%BE%C5%A1%C3%AD-chv%C3%ADle)
 
-)
+[7. Na kašel](#7-na-ka%C5%A1el)
 
-[5. Kdyby se rande 
+[8. První pomoc při popáleninách](#8-prvn%C3%AD-pomoc-p%C5%99i-pop%C3%A1lenin%C3%A1ch)
 
-nepovedlo](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#5-kdyby-se-rande-nepovedlo)
+[9. Obavy a nespavost](#9-obavy-a-nespavost)
 
-[6. Když přijdou těžší 
+[10. Při menstručních problémech](#10-p%C5%99i-menstru%C4%8Dn%C3%ADch-probl%C3%A9mech)
 
-chvíle](hhttps://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#6-kdy%C5%BE-p%C5%99ijdou-t%C4%9B%C5%BE%C5
+[11. Nastydnutí](#11-nastydnut%C3%AD)
 
-%A1%C3%AD-chv%C3%ADle)
+[12. Když přijde nachlazení](#12-kdy%C5%BE-p%C5%99ijde-nachlazen%C3%AD)
 
-[7. Na kašel](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#7-na-ka%C5%A1el)
+[13. Při kožních onemocněních](#13-p%C5%99i-ko%C5%BEn%C3%ADch-onemocn%C4%9Bn%C3%ADch)
 
-[8. První pomoc při 
+[14. Problémy s trávením](#14-probl%C3%A9my-s-tr%C3%A1ven%C3%ADm)
 
-popáleninách](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#8-prvn%C3%AD-pomoc-p%C5%99i-pop%C3%A
-
-1lenin%C3%A1ch)
-
-[9. Obavy a nespavost](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#9-obavy-a-nespavost)
-
-[10. Při menstručních 
-
-problémech](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#10-p%C5%99i-menstru%C4%8Dn%C3%ADch-pro
-
-bl%C3%A9mech)
-
-[11. Nastydnutí](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#11-nastydnut%C3%AD)
-
-[12. Když přijde 
-
-nachlazení](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#12-kdy%C5%BE-p%C5%99ijde-nachlazen%C3%
-
-AD)
-
-[13. Při kožních 
-
-onemocněních](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#13-p%C5%99i-ko%C5%BEn%C3%ADch-onemoc
-
-n%C4%9Bn%C3%ADch)
-
-[14. Problémy s 
-
-trávením](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#14-probl%C3%A9my-s-tr%C3%A1ven%C3%ADm)
-
-[15. Vitalita](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md#15-vitalita)
+[15. Vitalita](#15-vitalita)
 
 
 
