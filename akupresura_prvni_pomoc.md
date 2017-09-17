@@ -1,14 +1,17 @@
 #### Akupresura
 
-*Stisk správného bodu na těle může často díky vztahům mezi částmi lidského těla jednoduše odstranit problém, se kterým si ani 
+* Stisk správného bodu na těle může často díky vztahům mezi částmi lidského těla jednoduše odstranit problém, se kterým si 
 
-lékaři nevědí rady. V tomto článku se podíváme na úplný základ akupresury a představíme 15 bodů na těle, které se může snadno 
+ani lékaři nevědí rady. V tomto článku se podíváme na úplný základ akupresury a představíme 15 bodů na těle, které se může 
 
-naučit využívat každý.*
+snadno naučit využívat každý.
 
-*Na daný bod z následujícího seznamu vždy vytvořte mírný tlak po dobu přibližně 10 – 20 vteřin. Opakujte třikrát za sebou, 
+* Na daný bod z následujícího seznamu vždy vytvořte mírný tlak po dobu přibližně 10 – 20 vteřin. Opakujte třikrát za sebou, 
 
-praktikujeme několikrát za den.*
+praktikujeme několikrát za den.
+
+<a name="prehled"></a> 
+
 #### Přehled:
 
 [1. Když nás ovládne 
@@ -76,7 +79,7 @@ trávením](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_po
 
 ##### 1. Když nás ovládne zlost
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Tento bod zmírňuje naše napětí, stres, podrážděnost a hněv. Pomáhá při migrénách anebo pocitu frustrace. Bod je vhodný pro 
@@ -89,7 +92,7 @@ Bod najdete v jamce těsně před nártem, kde se setkávají záprstní kosti p
 
 ##### 2. Nespavost a strach
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Výborný bod pro uvolnění strachu, úzkosti, při šoku, nespavosti, v případě bezvědomí a epilepsie.
@@ -103,7 +106,7 @@ usnout.
 
 ##### 3. Konec otálení
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Velice důležitý bod, který povzbuzuje naší vůli. Stimuluje i chuť k sexu a plodnost. Bod nám pomáhá i od únavy.
@@ -120,7 +123,7 @@ Bod najdete v úrovni pasu, zhruba 1,5 palce vně od páteře.
 
 ##### 4. Pro snížení horečky
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Bod pomáhá při horečkách a při pálení během močení. Jeho stimulace je vhodná i při léčbě křečových žil, ischias a pásového 
@@ -133,7 +136,7 @@ Bod najdete v podkolenní jamce.
 
 ##### 5. Kdyby se rande nepovedlo
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Tento bod se velice hodí, když nás někdo citově anebo emočně zraní. Uklidňuje srdce i duši.
@@ -150,7 +153,7 @@ rýhy. Bod se nachází uprostřed předloktí – v prodloužené linii prostř
 
 ##### 6. Když přijdou těžší chvíle
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Bod pomáhá snížit naší nervozitu při zkouškách anebo pohovorech. Oceníme jej také při psychických stavech, jako jsou laktační 
@@ -163,7 +166,7 @@ Bod najdeme uprostřed dlaně.
 
 ##### 7. Na kašel
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Velice užitečný při růžných onemocněních dýchacích cest. Oceníme jej, pokud nás sužuje kašel, zápal plic, bronchitida anebo 
@@ -176,7 +179,7 @@ Bod se nachází pod klíční kostí zhruba ve výši dolního okraje druhého 
 
 ##### 8. První pomoc při popáleninách
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Bod zmírňuje bolestivost popálenin a urychluje uzdravení kůže. Pomocí tohoto bodu lze rovněž uvolnit emoční napětí a 
@@ -191,7 +194,7 @@ Bod najdete v blízkosti vřetení kosti – jeden a půl palce od zápěstní r
 
 ##### 9. Obavy a nespavost
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Zklidňující bod. Oceníme jej, pokud nás sužují obavy, neklid, strach, nespavost a deprese. Zmírňuje stres. Je také výborný, 
@@ -204,7 +207,7 @@ Bod se nachází na zápěstní rýze v prodloužení malíčku.
 
 ##### 10. Při menstručních problémech
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Bod velice užitečný při nepravidelné anebo bolestivé menstruaci, vaginálních výtocích a infekcích močového ústrojí. Je také 
@@ -217,7 +220,7 @@ Bod leží v blízkosti holenní kosti – tři palce od kotníku.
 
 ##### 11. Nastydnutí
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Bod pomáhá posílit naší odolnost vůči nepříznivým vnějším vlivům (vítr, chlad, atd.). Když nastydneme, je užitečný při 
@@ -232,7 +235,7 @@ Bod najdeme na hřbetu předloktí – zhruba tři prsty od zápěstní rýhy; v
 
 ##### 12. Když přijde nachlazení
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Jedná se o jeden z nejdůležitějších akupresurních bodů s širokým spektrem účinků. Tento bod je velice užitečné znát, když se 
@@ -253,7 +256,7 @@ V ŽÁDNÉM PŘÍPADĚ NEMAČKAT V TĚHOTENSTVÍ!
 
 ##### 13. Při kožních onemocněních
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Bod pomáhá s léčbou ekzémů a lupenky. Jeho stimulací lze rovněž snižovat horečku, regulovat přílišné pocení a návaly horka v 
@@ -266,7 +269,7 @@ Bod najdete v rýze, která vznikne při ohnutí lokte.
 
 ##### 14. Problémy s trávením
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Tento bod pomáhá regulovat trávení a hodí se jak při zácpě, tak i průjmu. Oceníme jej i při mentální podrážděnosti, mánii 
@@ -279,7 +282,7 @@ Bod najdete dva palce vodorovně od pupíku.
 
 ##### 15. Vitalita
 
-[Nahoru](#)
+[K přehledu](#prehled)
 
 
 Bod vyživující krev a posilující naší energii. Oceníme jej, pokud nás sužuje nedostatek vitality, anemie anebo impotence. 
