@@ -1,14 +1,14 @@
 # Akupresura
 
-___Stisk správného bodu na těle může často díky vztahům mezi částmi lidského těla jednoduše odstranit problém, se kterým si 
+__Stisk správného bodu na těle může často díky vztahům mezi částmi lidského těla jednoduše odstranit problém, se kterým si 
 
 ani lékaři nevědí rady. V tomto článku se podíváme na úplný základ akupresury a představíme 15 bodů na těle, které se může 
 
-snadno naučit využívat každý.___
+snadno naučit využívat každý.__
 
-___Na daný bod z následujícího seznamu vždy vytvořte mírný tlak po dobu přibližně 10 – 20 vteřin. Opakujte třikrát za sebou, 
+__Na daný bod z následujícího seznamu vždy vytvořte mírný tlak po dobu přibližně 10 – 20 vteřin. Opakujte třikrát za sebou, 
 
-praktikujeme několikrát za den.___
+praktikujeme několikrát za den.__
 
 __1. Když nás ovládne zlost__
 
