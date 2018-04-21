@@ -1,5 +1,7 @@
 ## Kompletní mapa tváře: Jak poloha akné prozradí co máte v těle nemocného
 
+![mapa_akne](https://github.com/bedjan/akupresura/raw/master/akne/mapa-akne.jpg)
+
 Obecně platí, že lidé se obracejí na moderní medicínu, když čelí nějakým zdravotním problémům. Nicméně konvenční léčebné a diagnostické postupy ne vždy přinesou efektivní výsledky.
 
 V mnoha případech se alternativní medicína ukázala být v léčbě různých zdravotních problémů úspěšnější než ta konvenční. Lidé na celém světě propagují všelijaké léčebné metody jako bylinářství, akupunktura, jóga, ayurvéda a mnoho dalších.
